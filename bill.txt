@@ -1,0 +1,6 @@
+BILL
+Products: Cilantro-Tomato Salsa , Arugula Salad with Heirloom Tomatoes and Red Onion , Spicy Pickled Shallots , 
+Price: 131 RON
+Order ID: 2
+Client ID: 3
+Date: Tue May 24 23:21:57 EEST 2022

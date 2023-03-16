@@ -1,0 +1,3 @@
+REPORT 3
+User{name='madadsfsfsf', ID=10}
+
